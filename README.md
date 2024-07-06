@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project aims to analyze simulated data from a season of Basketball GM, a popular basketball management simulation game available at [basketball-gm.com](basketball-gm.com).
+This project aims to analyze simulated data from a season of Basketball GM, a popular basketball management simulation game available at [basketball-gm.com](https://basketball-gm.com).
 
 ## Objective
 
